@@ -6,7 +6,7 @@ I'm most comfortable in that weird, funky world between design and development�
 
 - 👀 I’m interested in Nature, Football and Coding
 - 📖 I’m currently learning React Native and Electron
-- 📫 How to reach me: `shobuj dot mas at gmail dot com`
+- 📫 How to reach me: `annihillin at gmail dot com`
 - 👤 You can find me here [portfolio]
 
 
