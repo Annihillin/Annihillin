@@ -31,5 +31,7 @@ I'm most comfortable in that weird, funky world between design and developmentâ€
 <br />
 <br />
 
+<p align="center">Fav Quote:<br>"To be mad in a deranged world is not madness. It's sanity..."</p>
+
 [link]: #
 [portfolio]: https://shobuj.netlify.app/
